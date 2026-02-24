@@ -25,7 +25,7 @@
 
 **Eb Client:** https://eb-client-launcher.vercel.app/
 
-**Modern Client:** https://modernclient.online/wasm/
+**Modern Client:** https://modernclient.online
 
 # Archives
 **OFFICIAL:** https://archive.org/details/eagler-modpack-1.6.4-first-snapshot
