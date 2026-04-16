@@ -28,8 +28,7 @@ http://client.eb-bridging.pro/
 
 **Modern Client:** https://modernclient.online
 
-**Shadow Net Client**
-https://shadownetwork.shop/launcher/
+**Shadow Net Client:** https://shadownetwork.shop/launcher/
 
 # Archives
 **OFFICIAL:** https://archive.org/details/eagler-modpack-1.6.4-first-snapshot
