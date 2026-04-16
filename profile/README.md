@@ -23,9 +23,13 @@
 
 **Tuff Client:** https://tuffc.speedslicer.dev/
 
-**Eb Client:** https://eb-client-launcher.vercel.app/
+**Eb Client:** 
+http://client.eb-bridging.pro/
 
 **Modern Client:** https://modernclient.online
+
+**Shadow Net Client**
+https://shadownetwork.shop/launcher/
 
 # Archives
 **OFFICIAL:** https://archive.org/details/eagler-modpack-1.6.4-first-snapshot
